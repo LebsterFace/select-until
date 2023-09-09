@@ -11,6 +11,8 @@ You can install the **Select Until** extension via the Visual Studio Code Market
 3. Search for "Select Until."
 4. Click the Install button for the "Select Until" extension authored by Lebster.
 
+Alternatively, you can click the "Add to Visual Studio Code" button on the [Visual Studio Code Marketplace page](https://marketplace.visualstudio.com/items?itemName=Lebster.select-until) for the extension.
+
 ## Usage
 
 1. Open a text file in Visual Studio Code.
